@@ -26,3 +26,4 @@
 - Анализ взаимосвязей между признаками.
 - Построение графиков и сводных таблиц.
 - Формулирование выводов по результатам анализа.
+Ссылка на датасет: [Kaggle](https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction)
